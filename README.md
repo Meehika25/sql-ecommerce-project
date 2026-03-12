@@ -1,4 +1,4 @@
---SQL E-Commerce Sales Analysis Project
+##SQL E-Commerce Sales Analysis Project
 
 This project demonstrates a relational database for an e-commerce system using SQL.
 
